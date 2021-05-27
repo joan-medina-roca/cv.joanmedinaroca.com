@@ -63,9 +63,9 @@ career-profile:
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Técnico Superior en Diseño y Producción Editorial
+    university: Escola del Treball (Barcelona)
+    time: 2003 - 2004
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,7 +77,8 @@ education:
   - degree: BUP y COU
     university: Institut Vil·la de Gràcia
     time: 1995 - 1999
-    details: Describe your study here lorem ipsum dolor sit amet, consectetuer
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
