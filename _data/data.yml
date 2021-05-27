@@ -140,9 +140,9 @@ projects:
   intro: >
     Estos son algunos de los proyectos en los que he trabajado durante los últimos años. Mis tareas han sido variadas: diseñar y programar webs, proyectos con distintos CMS, traducciones y correcciones, diseño gráfico en distintos formatos, maquetación de libros, montaje fotográfico con Photoshop, etc.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Traducción web Heidi Heatherwick
+      link: "https://heidiheatherwick.com/"
+      tagline: "Traducción de la web del inglés al castellano (2021)"
 
     - title: DevStudio
       link: "#"
