@@ -36,16 +36,6 @@ sidebar:
     - idiom: Inglés
       level: Nivel Proficiency
 
-  interests:
-    - item: Música Swing
-      link:
-
-    - item: Baile - Lindy Hop y Balboa
-      link:
-
-    - item: Literatura, lectura y Ciencia Ficción
-      link:
-
   others:
     - item: Carnet de coche B
       link:
@@ -57,6 +47,16 @@ sidebar:
       link:
 
     - item: Proficiency in English, British Council
+      link:
+
+  interests:
+    - item: Música Swing
+      link:
+
+    - item: Baile - Lindy Hop y Balboa
+      link:
+
+    - item: Literatura, lectura y Ciencia Ficción
       link:
 
 career-profile:
