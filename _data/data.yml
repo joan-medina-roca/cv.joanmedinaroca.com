@@ -185,26 +185,29 @@ publications:
       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Programas y Conocimientos
 
   toolset:
-    - name: Python & Django
+    - name: Wordpress
       level: 98%
 
-    - name: Javascript & jQuery
+    - name: Prestashop
       level: 98%
 
-    - name: Angular
+    - name: Photoshop
       level: 98%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Affinity Suite
+      level: 100%
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: Html y CSS
+      level: 90%
 
-    - name: Sketch & Photoshop
+    - name: Word y Excel
       level: 60%
+
+    - name: Git
+      level: 85%
 
 footer: >
   Tema original hecho con <i class="fas fa-heart"></i> por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> - Modificado por <a href="https://www.joanmedinaroca.com/" target="_blank">Joan Medina Roca</a>
