@@ -34,10 +34,11 @@ p {
 }
 
 .hr-style {
-  width: 70%;
+  display: inline;
+  text-align: left;
+  width: 80%;
   margin-top: 0px;
   margin-bottom: 0px;
-  text-align: left;
 }
 
 .wrapper {
