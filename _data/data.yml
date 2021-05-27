@@ -27,23 +27,23 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: English
-      level: Native
+    - idiom: Catalán
+      level: Nativo
 
-    - idiom: French
-      level: Professional
+    - idiom: Castellano
+      level: Nativo
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Inglés
+      level: Nivel Proficiency
 
   interests:
-    - item: Climbing
+    - item: Música Swing
       link:
 
-    - item: Snowboarding
+    - item: Baile - Lindy Hop y Balboa
       link:
 
-    - item: Cooking
+    - item: Literatura, lectura y Ciencia Ficción
       link:
 
   others:
