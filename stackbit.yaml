@@ -2,7 +2,7 @@ stackbitVersion: ~0.3.0
 ssgName: jekyll
 publishDir: _site
 dataDir: _data
-pagesDir: ''
+pagesDir: ""
 models:
   data:
     type: data
@@ -64,6 +64,15 @@ models:
           - type: list
             name: interests
             label: Interests
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: item
+                  label: Item
+          - type: list
+            name: other
+            label: Other
             items:
               type: object
               fields:
