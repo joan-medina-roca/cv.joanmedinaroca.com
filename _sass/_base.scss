@@ -121,6 +121,7 @@ p {
   }
   .degree {
     font-size: 14px;
+    line-height: 1.4em;
     margin-top: 0;
     margin-bottom: 5px;
   }
@@ -213,6 +214,7 @@ p {
   .degree {
     color: $text-color;
     font-size: 16px;
+    line-height: 1.4em;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
@@ -233,7 +235,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 25px;
     color: darken($theme-color, 15%);
   }
   .projects-section {
