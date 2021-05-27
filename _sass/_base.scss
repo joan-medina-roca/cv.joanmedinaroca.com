@@ -43,7 +43,7 @@ p {
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
-  @include box-shadow(-11px 0px 20px -15px rgba(0, 0, 0, 0.6));
+  @include box-shadow(-11px 0px 20px -15px rgba(0, 0, 0, 0.3));
 }
 
 .sidebar-wrapper {
