@@ -36,7 +36,7 @@ p {
 .wrapper {
   background: $theme-color;
   max-width: 1000px;
-  margin: 280 auto;
+  margin: 0 auto;
   position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
@@ -44,7 +44,7 @@ p {
 .sidebar-wrapper {
   background: $theme-color;
   position: absolute;
-  left: 0;
+  right: 0;
   width: 280px;
   height: 100%;
   min-height: 800px;
