@@ -169,21 +169,30 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-    - title: The Art of Computer Programming
+    - title: Sobrevivir a la medicina
       link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+      authors: Dr. Michel Odent
+      conference: Editorial Ob Stare (2017)
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    - title: El bebé es un mamífero
       link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      authors: Dr. Michel Odent
+      conference: Editorial Ob Stare (2016)
 
-    - title: A syntax directed compiler for Algol 60
+    - title: Pasaje de lágrimas
       link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+      authors: Abdourahman A. Waberi
+      conference: Editorial Baile del sol (2011)
 
+    - title: El nacimiento en la era del plástico
+      link: "#"
+      authors: Dr. Michel Odent
+      conference: Editorial Ob Stare (2011)
+
+    - title: Las funciones de los orgasmos
+      link: "#"
+      authors: Dr. Michel Odent
+      conference: Editorial Ob Stare (2009)
 skills:
   title: Programas y Conocimientos
 
