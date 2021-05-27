@@ -136,11 +136,9 @@ experiences:
         - Bullet point
         - Bullet point
 projects:
-  title: Projects
+  title: Proyectos
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Estos son algunos de los proyectos en los que he trabajado durante los últimos años. Mis tareas han sido variadas: diseñar y programar webs, proyectos con distintos CMS, traducciones y correcciones, diseño gráfico en distintos formatos, maquetación de libros, montaje fotográfico con Photoshop, etc.
   assignments:
     - title: Velocity
       link: "#hook"
