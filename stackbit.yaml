@@ -1,0 +1,193 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+publishDir: _site
+dataDir: _data
+pagesDir: ''
+models:
+  data:
+    type: data
+    label: Data
+    file: data.yml
+    fields:
+      - type: object
+        name: sidebar
+        label: Sidebar
+        fields:
+          - type: boolean
+            name: about
+            label: About
+          - type: boolean
+            name: education
+            label: Education
+          - type: string
+            name: name
+            label: Name
+          - type: string
+            name: tagline
+            label: Tagline
+          - type: image
+            name: avatar
+            label: Avatar
+          - type: string
+            name: email
+            label: Email
+          - type: string
+            name: phone
+            label: Phone
+          - type: string
+            name: website
+            label: Website
+          - type: string
+            name: linkedin
+            label: Linkedin
+          - type: string
+            name: xing
+            label: Xing
+          - type: string
+            name: github
+            label: Github
+          - type: string
+            name: twitter
+            label: Twitter
+          - type: list
+            name: languages
+            label: Languages
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: idiom
+                  label: Idiom
+                - type: string
+                  name: level
+                  label: Level
+          - type: list
+            name: interests
+            label: Interests
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: item
+                  label: Item
+      - type: object
+        name: career-profile
+        label: Career Profile
+        fields:
+          - type: string
+            name: title
+            label: Title
+          - type: text
+            name: summary
+            label: Summary
+      - type: list
+        name: education
+        label: Education
+        items:
+          type: object
+          fields:
+            - type: string
+              name: degree
+              label: Degree
+            - type: string
+              name: university
+              label: University
+            - type: string
+              name: time
+              label: Time
+            - type: text
+              name: details
+              label: Details
+      - type: list
+        name: experiences
+        label: Experiences
+        items:
+          type: object
+          fields:
+            - type: string
+              name: role
+              label: Role
+            - type: string
+              name: time
+              label: Time
+            - type: string
+              name: company
+              label: Company
+            - type: text
+              name: details
+              label: Details
+      - type: object
+        name: projects
+        label: Projects
+        fields:
+          - type: string
+            name: title
+            label: Title
+          - type: string
+            name: intro
+            label: Intro
+          - type: list
+            name: assignments
+            label: Assignments
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: title
+                  label: Title
+                - type: string
+                  name: link
+                  label: Link
+                - type: string
+                  name: tagline
+                  label: Tagline
+      - type: object
+        name: publications
+        label: Publications
+        fields:
+          - type: string
+            name: title
+            label: Title
+          - type: text
+            name: intro
+            label: Intro
+          - type: list
+            name: papers
+            label: Papers
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: title
+                  label: Title
+                - type: string
+                  name: link
+                  label: Link
+                - type: string
+                  name: authors
+                  label: Authors
+                - type: string
+                  name: conference
+                  label: Conference
+      - type: object
+        name: skills
+        label: Skills
+        fields:
+          - type: string
+            name: title
+            label: Title
+          - type: list
+            name: toolset
+            label: Toolset
+            items:
+              type: object
+              fields:
+                - type: string
+                  name: name
+                  label: Name
+                - type: string
+                  name: level
+                  label: Level
+      - type: markdown
+        name: footer
+        label: Footer

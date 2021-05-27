@@ -1,0 +1,19 @@
+title: My Resume
+url: ''
+baseurl: ''
+description: A beautiful Jekyll theme for creating resume
+theme_skin: blue
+chrome_mobile_color: null
+analytics: UA-83979019-1
+sass:
+  sass_dir: _sass
+  style: compressed
+compress-site: 'yes'
+encoding: utf-8
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+port: 4000
+host: 0.0.0.0
+safe: false
