@@ -140,13 +140,17 @@ projects:
   intro: >
     Estos son algunos de los proyectos en los que he trabajado durante los últimos años. Mis tareas han sido variadas: diseñar y programar webs, proyectos con distintos CMS, traducciones y correcciones, diseño gráfico en distintos formatos, maquetación de libros, montaje fotográfico con Photoshop, etc.
   assignments:
-    - title: Traducción web Heidi Heatherwick
+    - title: Traducción Web Heidi Heatherwick
       link: "https://heidiheatherwick.com/"
       tagline: "Traducción de la web del inglés al castellano (2021)"
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Creación Web Joanmedinaroca.com
+      link: "https://joanmedinaroca.com"
+      tagline: "Creación y diseño de la Web de Joan Medina Roca, utilizando Wordpress CMS (2020)"
+
+    - title: Creación Web Lamardeswing.com
+      link: "https://lamardeswing.com"
+      tagline: "Creación y diseño de la Web de La Mar de Swing, utilizando Wordpress CMS (2019)"
 
     - title: Tempo
       link: "#"
