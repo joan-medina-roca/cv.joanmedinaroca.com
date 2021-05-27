@@ -1,0 +1,14 @@
+{% assign other = site.data.data.sidebar.other %} {% if other %}
+<div class="other-container container-block">
+  <h2 class="container-block-title">Other</h2>
+
+  <ul class="list-unstyled other-list">
+    {% for other in other %} {% if others.link %}
+    <li><a href="{{ others.link }}">{{ others.item }}</a></li>
+    {% else %}
+    <li>{{ others.item }}</li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
+<!--//Other-->
+{% endif %}
