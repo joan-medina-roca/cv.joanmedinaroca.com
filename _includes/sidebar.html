@@ -15,10 +15,11 @@
   </div>
   <!--//profile-container-->
 
-  {% include contact.html %} {% if sidebar.education %} {% include
-  education.html %} {% endif %} {% include language.html %} {% include
-  other.html %}
-  <hr class="hr75" />
+  {% include contact.html %}
+  <hr class="hr-style" />
+  {% if sidebar.education %} {% include education.html %} {% endif %} {% include
+  language.html %} {% include other.html %}
+  <hr class="hr-style" />
   {% include interests.html %} {% if sidebar.about %} {% include about.html %}
   {% endif %}
 </div>
