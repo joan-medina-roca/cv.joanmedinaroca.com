@@ -103,28 +103,33 @@ experiences:
     company: Freelance
     details: |
       En cuanto completé mis estudios en la <a href="http://www.escoladeltreball.org/" target="_blank">Escola del Treball</a> de Barcelona, empecé a trabajar como Diseñador Gráfico y a aprender sobre Diseño Web. He realizado muchísimos proyectos en ambos campos, y también en el de la traducción, como Traductor y como Corrector de estilo. Las tareas han sido muy variadas, incluyendo maquetación, edición, retoque y montaje fotográfico, diseño web, edición de vídeo, traducción y corrección, etc. He trabajado como Freelance para distintas empresas, negocios locales, organizaciones y también para la Administración pública.
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Profesor de Inglés
+    time: 2006 - 2007
+    company: British American Institute (Mataró)
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Resident Assistant
+    time: 2006 - 2007
+    company: IES Barcelona
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
       nascetur ridiculus mus. Donec quam felis, ultricies nec,
       pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - role: Diseñador Gráfico y Preimpresor
+    time: 2003 - 2005
+    company: Marc Martí
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
 projects:
   title: Proyectos
   intro: >
