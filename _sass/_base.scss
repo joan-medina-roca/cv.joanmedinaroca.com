@@ -286,7 +286,8 @@ p {
     background: lighten($theme-color, 15%);
   }
   .pdf-download {
-    margin-top: 50px;
+    font-family: "Georgia", serif;
+    font-weight: 800;
   }
 }
 
