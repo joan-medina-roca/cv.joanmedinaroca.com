@@ -87,17 +87,17 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-    - degree: Filología Inglesa
-    university: Universidad Autónoma de Barcelona
-    time: 2000 - 2002
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Filología Inglesa
+  university: Universitat Autònoma de Barcelona
+  time: 2000 - 2002
+  details: |
+    Describe your study here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    sociis natoque penatibus et magnis dis parturient montes, nascetur
+    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    pretium quis, sem.
+      - Bullet point
+      - Bullet point
   - degree: BUP y COU
     university: Institut Vil·la de Gràcia
     time: 1995 - 1999
